@@ -1,0 +1,1 @@
+import{_ as t,W as o,X as n,Y as a,$ as r,a1 as s,D as c,Z as _}from"./framework-f64bc974.js";const l={};function d(i,m){const e=c("RouterLink");return o(),n("div",null,[a("p",null,[r(e,{to:"/book/reading-notes.html"},{default:s(()=>[_("《最怕你 一生碌碌无为 还安慰自己 平凡可贵》")]),_:1})])])}const f=t(l,[["render",d],["__file","index.html.vue"]]);export{f as default};
